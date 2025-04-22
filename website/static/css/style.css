@@ -28,6 +28,16 @@ p
 /* end all section */
 
 /* start nagivation */
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff; /* or your preferred color */
+    text-transform: uppercase;
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    margin-top: 10%;
+  }
+  
 .navbar-default
     {
         background: #fff;

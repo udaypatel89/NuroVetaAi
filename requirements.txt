@@ -50,3 +50,10 @@ urllib3==1.26.6
 Werkzeug==2.0.1
 wrapt==1.12.1
 xgboost==1.4.2
+Flask
+tensorflow
+scikit-learn
+xgboost
+Pillow
+Werkzeug
+

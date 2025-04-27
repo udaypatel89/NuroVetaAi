@@ -1,6 +1,6 @@
 # Healthcare-AI-WebApp
 
-![slide1](https://user-images.githubusercontent.com/83681204/132836093-c80aca67-b58d-420b-8155-23d1e54d46ac.jpg)
+![slide1](https://drive.google.com/file/d/1VSkInLKezU39x4PFLAOX7pePlKyHHGmd/view?usp=sharing)
 
 ## AltairCare app can be accessed [here](https://altaircare.onrender.com)
 
@@ -17,17 +17,17 @@ In my application, AltairCare, I used machine learning and deep learning algorit
 - Stroke Disease
 - Heart Disease
 
-![slide2](https://user-images.githubusercontent.com/83681204/132843407-0d59dca9-d0cc-4a3d-a75b-6d995aca761e.jpg)
+![slide2](https://drive.google.com/file/d/1cmMXL3MK178oBhdHvg-ooPDIR8tsbWyc/view?usp=sharing)
 
 Each disease has its own page with an overview and symptoms that patients may experience, as well as prediction model information and the required parameters that users must provide.
 
 ## Disease Page:
 
-![Disease Page](https://user-images.githubusercontent.com/83681204/159312257-c9382514-bf8a-4dd2-afc6-777e2e0f812d.png)
+![Disease Page](https://drive.google.com/file/d/1VSkInLKezU39x4PFLAOX7pePlKyHHGmd/view?usp=sharing)
 
 ## Prediction Page:
 
-![Prediction Page](https://user-images.githubusercontent.com/83681204/159312337-8a8f8932-473b-4c66-a7f2-c63f1b045c5b.png)
+![Prediction Page](https://drive.google.com/file/d/1B0ghvXqwZmPEOTYCrQHzurljgL5zTyOF/view?usp=sharing)
 
 All the datasets used to train the models can be found on the Kaggle website.
 

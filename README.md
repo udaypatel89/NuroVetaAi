@@ -1,6 +1,6 @@
 # Healthcare-AI-WebApp
 
-![slide1](https://drive.google.com/file/d/1VSkInLKezU39x4PFLAOX7pePlKyHHGmd/view?usp=sharing)
+![slide1](https://github.com/udaypatel89/NuroVetaAi/blob/main/website/static/images/readme1.png)
 
 ## AltairCare app can be accessed [here](https://altaircare.onrender.com)
 
@@ -17,17 +17,17 @@ In my application, AltairCare, I used machine learning and deep learning algorit
 - Stroke Disease
 - Heart Disease
 
-![slide2](https://drive.google.com/file/d/1cmMXL3MK178oBhdHvg-ooPDIR8tsbWyc/view?usp=sharing)
+![slide2](https://github.com/udaypatel89/NuroVetaAi/blob/main/website/static/images/readme2.png)
 
 Each disease has its own page with an overview and symptoms that patients may experience, as well as prediction model information and the required parameters that users must provide.
 
 ## Disease Page:
 
-![Disease Page](https://drive.google.com/file/d/1VSkInLKezU39x4PFLAOX7pePlKyHHGmd/view?usp=sharing)
+![Disease Page](https://github.com/udaypatel89/NuroVetaAi/blob/main/website/static/images/readme3.png)
 
 ## Prediction Page:
 
-![Prediction Page](https://drive.google.com/file/d/1B0ghvXqwZmPEOTYCrQHzurljgL5zTyOF/view?usp=sharing)
+![Prediction Page](https://github.com/udaypatel89/NuroVetaAi/blob/main/website/static/images/readme4.png)
 
 All the datasets used to train the models can be found on the Kaggle website.
 
